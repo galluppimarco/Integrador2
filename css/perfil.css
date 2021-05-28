@@ -1,0 +1,35 @@
+.protagonista {
+    border: 10px solid black;
+    float: left;
+    padding: 0px;
+    margin: 150px;
+    width: 500px;
+    height: 500px;
+}
+.srsteele {
+    border: 10px solid black;
+    float: right;
+    padding: 0px;
+    margin: 35px;
+    position: relative;
+    top: 120px;
+    width: 500px;
+    height: 500px;
+}
+div.srsteele {
+    width: 100px;
+}
+div.contenedor img {
+    width: 100%;
+    height: auto;
+}
+div.infoprota {
+    color: black;
+    text-align: center;
+    padding: 100px;
+    line-height: 40px;
+    font-size: 25px;
+    top: 50px;
+    list-style: none;
+}
+
